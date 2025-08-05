@@ -1,11 +1,10 @@
 module.exports = function(eleventyConfig) {
-  eleventyConfig.addPassthroughCopy("styles.css");
-
   return {
     dir: {
-      input: "src",
-      includes: "_includes",
-      output: "_site"
+      input: "src",        // Your source files
+      includes: "_includes", // Your includes inside /src
+      layouts: "_includes",  // Layouts also inside /src/_includes
+      output: "_site"       // Default output folder
     }
   };
 };
