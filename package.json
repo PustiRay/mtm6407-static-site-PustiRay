@@ -1,0 +1,15 @@
+{
+  "name": "week11-site",
+  "version": "1.0.0",
+  "description": "MTM6407 Static Personal Interest Site using Eleventy",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
+  },
+  "keywords": [],
+  "author": "Pusti, Khushi, Amanpreet",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}
