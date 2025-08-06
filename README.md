@@ -5,7 +5,7 @@ A minimalist personal interest site built using **Eleventy (11ty)** for the Week
 
 ---
 
-## 👥 Group Members
+## Author
 
 - **Pusti Ray** — Student #: `90541142292`  
   *Project Lead & Designer*   
