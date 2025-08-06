@@ -8,10 +8,8 @@ A minimalist personal interest site built using **Eleventy (11ty)** for the Week
 ## 👥 Group Members
 
 - **Pusti Ray** — Student #: `90541142292`  
-  *Project Lead & Designer*  
-- **Khushi** — Student #: `90541136043`  
-  *Content Specialist*  
-- **Amanpreet** — Student #: `90541142547`  
+  *Project Lead & Designer*   
+  *Content Specialist*   
   *Developer & Integrator*  
 
 ---
@@ -45,14 +43,14 @@ This site explores the concept of minimalist living through helpful blog posts, 
 ---
 
 ## 🚀 Live Site  
-👉 [Visit Minimalist Living on Netlify](https://your-netlify-site-url.netlify.app)  
-_(Replace with your actual live URL before submitting.)_
+👉 [Visit Minimalist Living on Netlify](https://staticsitebypr.netlify.app/)  
+
 
 ---
 
 ## 🔗 GitHub Repository  
-👉 [GitHub Repo – mtm6407-static-site-yourusername](https://github.com/yourusername/mtm6407-static-site-yourusername)  
-_(Replace with your actual repo URL before submitting.)_
+👉 [GitHub Repo – mtm6407-static-site-yourusername](https://github.com/PustiRay/mtm6407-static-site-PustiRay)  
+
 
 ---
 
