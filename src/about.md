@@ -5,10 +5,19 @@ title: About Us
 
 # About Us
 
-We are a team passionate about minimalism and clean design:
+We are a small team passionate about minimalism and clean design. Our goal is to inspire a simpler, more intentional way of living.
 
-- *Pusti Ray* — Project Lead & Designer. Focuses on UI/UX and overall project direction.  
-- *Khushi* — Content Specialist. Writes engaging, informative content and blog posts.  
-- *Amanpreet* — Developer & Integrator. Handles development, builds, and deployment.
+---
 
-Together, we create beautiful, responsive, and useful static websites.
+## 👩‍💻 Meet the Team
+
+### 🧠 Pusti Ray — Project Lead & Designer  
+Loves crafting clean user interfaces and organizing chaos into clarity. Believes in intentional design that creates space to breathe.
+
+### ✍️ Khushi — Content Specialist  
+Writes engaging and thoughtful content that connects with people. Passionate about storytelling and wellness.
+
+### 💻 Amanpreet — Developer & Integrator  
+Turns ideas into working websites. Enjoys building efficient, optimized digital spaces.
+
+We believe that minimalist living empowers focus, joy, and balance. Our hope is that you’ll find the same through our site.

@@ -1,6 +1,6 @@
 ---
+layout: blog-layout.njk
 title: Blog
-layout: base.njk
 ---
 
 <h1>{{ title }}</h1>

@@ -1,0 +1,13 @@
+{% extends "base.njk" %}
+
+{% block content %}
+<article class="blog-post container mt-4">
+  <header class="mb-4">
+    <h1 class="display-5 text-center">{{ title }}</h1>
+    <hr>
+  </header>
+  <section>
+    {{ content | safe }}
+  </section>
+</article>
+{% endblock %}
